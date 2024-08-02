@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Poppins", sans-serif;      
+}
+
+.nav-container{
+    text-align: center;
+    padding: 20px;
+    background-color: #98090E;
+    color: white;
+}
+
+.nav-container__title{
+    font-size: 35px;
+}
+
+.nav-container__link{
+    color: beige;
+    text-decoration: none;
+}
+
+#receipe-container{
+    text-align: center;
+    padding: 50px;
+}
+
+.receipe-container__info{
+    border: none;
+    display: inline-block;
+    width: 200px;
+    height: 320px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    vertical-align: middle;
+}
+
+.receipe-container__image{
+    width: 200px;
+    height: 150px;
+}
+
+.receipe-container__name,.receipe-container__desc{
+    margin-top: 5px;
+    text-align: center;
+}
+
+.receipe-container__desc{
+    font-size: 14px;
+}
+
+.receipe-container__button{
+    padding: 5px 10px 5px 10px;
+    vertical-align: middle;
+    margin-top: 10px;
+    border: none;
+    background-color: #98090E;
+    color: white;
+}
+
+#footer-container{
+    text-align: center;
+    background-color: #98090E;
+    color: white;
+    padding: 10px;
+}
+
+.footer-container__title, .footer-container__table, .footer-container__button{
+    margin-bottom: 5px;
+}
+
+.footer-container__table{
+    display: inline-block;
+ }
+
+.footer-container__input{
+    padding: 5px;
+    margin-bottom: 5px;
+    width: 250px;
+}
+
+.footer-container__label{
+    margin-right: 5px;
+}
+
+.footer-container__button{
+    padding: 10px 30px 10px 30px;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+    
+}
