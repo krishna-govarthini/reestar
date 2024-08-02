@@ -18,6 +18,6 @@ CSS
 - Includes Google Fonts for better typography.
 
 ## Live Demo
-You can access the live demo of the website
+You can access the live demo of the website https://krishna-govarthini.github.io/Reestar/
 
 Thank you for visiting! Feel free to reach out if you have any questions or feedback.
