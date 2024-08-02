@@ -1,6 +1,6 @@
 # Reestar Restaurant Website
 
-Welcome to the Reestar Restaurant website! This simple project, created as part of the Full Stack Development course by Error Makes Clever Academy, demonstrates basic HTML and CSS skills.
+Welcome to the Reestar Restaurant website! This simple project, created as part of the FSDW course by Error Makes Clever Academy, demonstrates basic HTML and CSS skills.
 
 ## Project Overview
 
