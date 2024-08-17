@@ -17,7 +17,11 @@ CSS
 - Simple and clean layout with a focus on usability.
 - Includes Google Fonts for better typography.
 
-## Live Demo
-You can access the live demo of the website https://krishna-govarthini.github.io/Reestar/
+## Check It Out 🌐
 
-Thank you for visiting! Feel free to reach out if you have any questions or feedback.
+You can view the live site [Reestar]( https://krishna-govarthini.github.io/Reestar/). 
+
+Feel free to reach out if you encounter any issues or questions. ✉️
+
+Thank you for visiting! 
+
